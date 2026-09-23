@@ -18,6 +18,9 @@ fun main() {
     printPaySlip()
 }
 
+// I used these links to check how to format money to 2 decimal places:
+// https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.text/format.html
+// https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Formatter.html
 
 fun printPaySlip() {
 
